@@ -43,7 +43,7 @@ Attendance: 5% of total grade
 100% = 50% Hw + 10% Quizzes + 10% midterm + 25% final project + 5% attendance
 
 ## Schedule
-![Tentative Schedule](../../schedule.png "Tentative Course Structure")
+![Tentative Schedule](./schedule.png "Tentative Course Structure")
 
 
 ## Academic Integrity Policy
