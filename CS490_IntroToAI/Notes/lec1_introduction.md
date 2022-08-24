@@ -1,5 +1,7 @@
 # Introduction to Artificial Intelligence
 ---
+[Back](README.md)
+
 Syllabus day, woot woot
 
 ## General Info
