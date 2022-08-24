@@ -1,7 +1,3 @@
-<script type="text/javascript"
-      src="https://cdnjs.cloudflare.com/ajax/libs/mathjax/2.7.3/MathJax.js?config=TeX-AMS-MML_HTMLorMML">
-</script>
-
 [Back](../README.md)
 
 # Lecture 2 - 8/24/2022
@@ -97,5 +93,5 @@ y = x(2:6);
 
 ## Polynomials
 - `p = [1, -3, 5, 6]` = yes it's a row vector, but Matlab can treat this as a polynomial
-- `polyval(p, 0)` returns answer of polynomial with $x = 0$
+- `polyval(p, 0)` returns answer of polynomial with $x=0$
 - `roots()` returns the solutions
