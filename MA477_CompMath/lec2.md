@@ -95,3 +95,6 @@ y = x(2:6);
 - `p = [1, -3, 5, 6]` = yes it's a row vector, but Matlab can treat this as a polynomial
 - `polyval(p, 0)` returns answer of polynomial with \(x=0\)
 - `roots()` returns the solutions
+
+
+$\sqrt{3x-1}+(1+x)^2$
