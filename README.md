@@ -16,3 +16,5 @@ I'll keep this page updated with the notes I write during lectures along with th
 - [8/24/2022 - Lecture 2 - MatLab Introdcution](./MA477_CompMath/lec2)
 
 ### Lecture PDFs
+
+$\sqrt{3x-1}+(1+x)^2$
