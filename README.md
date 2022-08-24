@@ -7,7 +7,7 @@ I'll keep this page updated with the notes I write during lectures along with th
 - [8/23/2022 - Lecture 1 - Introduction](./CS490_IntroToAI/lec1_introduction.md) 
 
 ### Lecture PDFs
-- [Lecture 1](https://mega.nz/file/xHcmyQIR#B9MA8NBvJrfNgdtSr1gbnq2VQ5tHRIis-NnzOfGN_xA)  
+- <a href="https://mega.nz/file/xHcmyQIR#B9MA8NBvJrfNgdtSr1gbnq2VQ5tHRIis-NnzOfGN_xA" target="_blank">Lecture 1</a>
 
 ## MA 477
 ---
