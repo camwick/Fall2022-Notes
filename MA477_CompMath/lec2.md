@@ -1,3 +1,6 @@
+<script src="https://cdn.mathjax.org/mathjax/latest/MathJax.js?config=TeX-AMS-MML_HTMLorMML" type="text/javascript"></script>
+
+
 [Back](../README.md)
 
 # Lecture 2 - 8/24/2022
