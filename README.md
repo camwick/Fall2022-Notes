@@ -13,5 +13,6 @@ I'll keep this page updated with the notes I write during lectures along with th
 ---
 ### Notes
 - [8/22/2022 - Lecture 1 - Syllabus Day](./MA477_CompMath/lec1_introduction)
+- [8/24/2022 - Lecture 2 - MatLab Introdcution](./MA477_CompMath/lec2)
 
 ### Lecture PDFs
