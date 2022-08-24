@@ -1,6 +1,6 @@
 # Introduction to Artificial Intelligence
 ---
-[Back](../../README.md)
+[Back](../README.md)
 
 Syllabus day, woot woot
 
