@@ -4,7 +4,7 @@
 ---
 ### Notes
 - [8/23/2022 - Lecture 1 - Introduction](./CS490_IntroToAI/lec1_introduction.md) 
-- [8/25/2022 - Lecture 2 - Python Introduction](lec2_pythonIntro.md)
+- [8/25/2022 - Lecture 2 - Python Introduction](./CS490_IntroToAI/lec2_pythonIntro.md)
 
 ### Lecture PDFs
 - <a href="https://mega.nz/file/xHcmyQIR#B9MA8NBvJrfNgdtSr1gbnq2VQ5tHRIis-NnzOfGN_xA" target="_blank">Lecture 1</a>
