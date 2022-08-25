@@ -84,7 +84,7 @@ y = x(2:6);
 - `max()` will return minimum value in matrix
 
 ## Matrix
-- `A = [1, 2, 3; 4, 5, 6]` = <iframe src="https://latex.codecogs.com/svg.image?\begin{pmatrix}1&space;&&space;2&space;&&space;3&space;\\4&space;&&space;5&space;&&space;6&space;\\\end{pmatrix}"></iframe>
+- `A = [1, 2, 3; 4, 5, 6]` = ![Test](https://latex.codecogs.com/svg.image?\begin{pmatrix}1&space;&&space;2&space;&&space;3&space;\\4&space;&&space;5&space;&&space;6&space;\\\end{pmatrix})
 - `det(x)` returns the determinant of the square matrix `x` 
 - random matrix: `A = random([-10:10],x,y)`; x = rows, y = columns
 - `rref(x)` = reduced  row echolon form 
