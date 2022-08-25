@@ -1,4 +1,4 @@
-<p>I'll be using an [online LaTeX Editor](https://latex.codecogs.com/) for anything math related because markdown doesn't have any nice math rendering and GitHub Pages is a pain in the ass.</p>
+<p>I'll be using an <a href="https://latex.codecogs.com/">online LaTeX Editor</a> for anything math related because markdown doesn't have any nice math rendering and GitHub Pages is a pain in the ass.</p>
 
 ## CS 490 
 ---
