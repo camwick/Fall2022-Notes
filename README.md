@@ -1,5 +1,4 @@
-# Notes Home Page
-I'll keep this page updated with the notes I write during lectures along with the pdfs the prof uploads for ease of access. 
+<p>I'll be using an [online LaTeX Editor](https://latex.codecogs.com/) for anything math related because markdown doesn't have any nice math rendering and GitHub Pages is a pain in the ass.</p>
 
 ## CS 490 
 ---
