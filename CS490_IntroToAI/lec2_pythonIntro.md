@@ -52,15 +52,15 @@
 
 ## Assignment Operators
 
-**INSERT PICTURE FROM SLIDE HERE**
+![Assignment Operators](./assignmentOP.png)
 
 ## Comparison Operators
 
-**INSERT PICTURE FROM SLIDE HERE**
+![Comparison Operators](./comparisonOp.png)
 
 ## Logical Operators
 
-**INSERT PICTURE FROM SLIDE HERE**
+![Logical Operators](./logicalOp.png)
 
 ## Identity Operators
 - `is` returns true if both variables are the same object
@@ -71,10 +71,10 @@
 - `not in` returns true if a seuqnce with the specified value is not present in the object
 
 ## Bitwise Operators
-**INSERT PICTURE FROM SLIDE HERE**
+![Bitwise Operators](./bitwiseOp.png)
 
 ## Collections
-- `List = [a, b, c]
+- `List = [a, b, c]`
 	- ordered
 	- indexed
 	- changeable
@@ -132,24 +132,54 @@ a3D = np.array([[[1,2],[3,4]], [[5,6],[7,8]]])
 	- `np.linspace(1.,4.,6)` = `array([1., 1.6, 2.2, 2.8, 3.4, 4.])`
 - 2D arrays
 	- `np.diag` can define either a square 2D array with given values along the diagonal or if given a 2D array returns a 1D array that is only the diagonal elements
-		- **TAKE A PICTURE OF THE PYTHON REPL FOR THIS**
+```python
+>>> np.diag([1, 2, 3])
+array([[1, 0, 0],
+	  [0, 2, 0],
+	  [0, 0, 3]])
+
+>>> np.diag([1, 2, 3], 1)
+array([[0, 1, 0, 0],
+	  [0, 0, 2, 0],
+	  [0, 0, 0, 3],
+	  [0, 0, 0, 0]])
+```
 - 3D arrays
 	- `numpy.ones` and `numpy.zeros` define arrays based on the desired criteria
-		- **TAKE A PICTURE OF THE PYTHON REPL FOR THIS**
+```python
+>>> np.zeros((2, 3))
+array([[0., 0., 0.],
+	  [0., 0., 0.]])
+
+>>> np.ones((2,3))
+array([[1., 1., 1.],
+	  [1., 1., 1.]])
+
+>>> np.zeros((2, 3, 2))
+array([[[0., 0.],
+	   [0., 0.],
+	   [0., 0.]],
+	   
+	   [[0., 0.],
+	   [0., 0.],
+	   [0., 0.]]])
+
+>>> np.ones((2, 3, 2))
+array([[[1., 1.],
+	   [1., 1.],
+	   [1., 1.]]
+	   
+	   [[1., 1.],
+	   [1., 1.],
+	   [1., 1.]]])
+```
 
 ### Indexing on `ndarrays`
-```python
-x = np.array([0,1,2,3,4,5,6,7,8,9])
-
-x[1:2:7] # yields araay([1,3,5])
-```
-**COME BACK AND FINISH THIS EXAMPLE ^^^^^**
-
-**PICTURE OF REPLE FOR ``.RESHAPE`**
-
+![Array Index](./arrayIndex.png)
+![Arange/Reshape](reshape.png)
 ### Array [Broadcasting](https://numpy.org/doc/stable/user/basics.broadcasting.html)
 - describes how Numpy treats arrays with different shapes during arithmetic operations
-**TAKE A PICTURE OF REPL FOR THIS ONE**
+![broadcasting example](./broadcast.png)
 - matrix takes form of first array/matrix
 
 
