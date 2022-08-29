@@ -1,6 +1,6 @@
 markdown: kramdown
-remote_theme: pages-themes/time-machine@v0.2.0
+remote_theme: pages-themes/dinky@v0.2.0
 plugins:
-- jekyll-remote-theme
+  - jekyll-remote-theme
 title: [Fall 2022 Notes]
 description: [A compiling of my notes for CS 490 and MA 477]
