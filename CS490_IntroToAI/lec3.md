@@ -83,6 +83,7 @@ print(speed)
 	- `N` is number of points
 4) calculate c: <img src="https://latex.codecogs.com/svg.image?&space;c&space;=&space;\frac{\sum&space;(y)-m\sum&space;(x)}{N}"> 
 Example:
+
 | x | y | x^2 | xy |
 | --- | --- | --- | --- |
 | 2 | 3 | 4 | 6 |
