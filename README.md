@@ -11,6 +11,7 @@
 ### Lecture PDFs
 
 - <a href="https://mega.nz/file/xHcmyQIR#B9MA8NBvJrfNgdtSr1gbnq2VQ5tHRIis-NnzOfGN_xA" target="_blank">Lecture 1</a>
+- <a href="https://mega.nz/file/xDdHVYrT#7C1czIVl3AtBQmuusAe2vFhFAeB0ULumMOiS6NB52uU" target="_blank_">Lecture 2</a>
 
 ## MA 477
 
