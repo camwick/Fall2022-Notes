@@ -96,6 +96,7 @@ Example:
 | 10 | 15 | 38 | 56 
 
 <img src="https://latex.codecogs.com/svg.image?m&space;=&space;\frac{N&space;*&space;\sum&space;(xy)&space;-&space;\sum&space;(x)&space;\sum&space;(y)}{N&space;*&space;\sum&space;(x^2)&space;-&space;(\sum&space;(x))^2}&space;=&space;\frac{3&space;*&space;56&space;-&space;10&space;*&space;15}{3&space;*&space;38&space;-&space;10^2}&space;=&space;\frac{9}{7}">
+<br>
 <img src="https://latex.codecogs.com/svg.image?c&space;=&space;\frac{\sum(y)-n\sum(x)}{N}&space;=&space;\frac{15-\frac{9}{7}*10}{3}=&space;\frac{5}{7}">
 
 #### SSE, MSE and RMSE
