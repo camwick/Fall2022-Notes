@@ -6,6 +6,7 @@
 
 - [8/23/2022 - Lecture 1 - Introduction](./CS490_IntroToAI/lec1_introduction.md)
 - [8/25/2022 - Lecture 2 - Python Introduction](./CS490_IntroToAI/lec2_pythonIntro.md)
+- [8/30/2022 - Lecture 3](./CS490_IntroToAI/lec3)
 
 ### Lecture PDFs
 

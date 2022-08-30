@@ -1,5 +1,5 @@
 # MatLab Arrays & Functions
-![Back](../README.md)
+[Back](../README.md)
 
 ## More Arrays
 

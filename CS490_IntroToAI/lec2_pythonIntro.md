@@ -1,5 +1,4 @@
 # Lecture 2 Losers
----
 [Back](../README.md)
 
 ## Python
