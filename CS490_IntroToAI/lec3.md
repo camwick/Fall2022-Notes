@@ -79,21 +79,23 @@ print(speed)
 - solution
 1) for each (x,y) point, calculate x^2 and xy
 2) sum all x,y , x^2, and xy, which gives us Ex, Ey, Ex^2 and Exy (E means "sum up")
-3) calculate slope m:  <img src="https://latex.codecogs.com/svg.image?m&space;=&space;N&space;\sum&space;(xy)&space;-&space;\sum&space;(x)&space;\sum&space;(y)&space;/&space;N&space;\sum&space;(x^2)&space;-&space;(\sum&space;(Ex))^2"> 
+3) calculate slope m:  <img src="https://latex.codecogs.com/svg.image?m&space;=&space;\frac{N*\sum(xy)-\sum(x)\sum(y)}{N\sum(x^2)-(\sum(x))^2}"> 
 	- `N` is number of points
 4) calculate c: <img src="https://latex.codecogs.com/svg.image?&space;c&space;=&space;\frac{\sum&space;(y)-m\sum&space;(x)}{N}"> 
 Example:
 | x | y | x^2 | xy |
-| ---- | ---- | ---- | ---- |
+| --- | --- | --- | --- |
 | 2 | 3 | 4 | 6 |
 | 3 | 5 | 9| 15 |
 | 5 | 7 | 25 | 35 | 
+
 
 | E(x) | E(y) | E(x^2) | E(xy) |
 | --- | --- | --- | --- |
 | 10 | 15 | 38 | 56 
 
 <img src="https://latex.codecogs.com/svg.image?m&space;=&space;\frac{N&space;*&space;\sum&space;(xy)&space;-&space;\sum&space;(x)&space;\sum&space;(y)}{N&space;*&space;\sum&space;(x^2)&space;-&space;(\sum&space;(x))^2}&space;=&space;\frac{3&space;*&space;56&space;-&space;10&space;*&space;15}{3&space;*&space;38&space;-&space;10^2}&space;=&space;\frac{9}{7}">
+<img src="https://latex.codecogs.com/svg.image?c&space;=&space;\frac{\sum(y)-n\sum(x)}{N}&space;=&space;\frac{15-\frac{9}{7}*10}{3}=&space;\frac{5}{7}">
 
 #### SSE, MSE and RMSE
 - Sum of Squares Erro (SSE) - sum of squared differences between predicted data points and observered data points

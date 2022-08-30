@@ -12,6 +12,7 @@
 
 - <a href="https://mega.nz/file/xHcmyQIR#B9MA8NBvJrfNgdtSr1gbnq2VQ5tHRIis-NnzOfGN_xA" target="_blank">Lecture 1</a>
 - <a href="https://mega.nz/file/xDdHVYrT#7C1czIVl3AtBQmuusAe2vFhFAeB0ULumMOiS6NB52uU" target="_blank_">Lecture 2</a>
+- <a href="https://mega.nz/file/xbdgSCRA#es8sk6h0xPIkwvsSYvGU15B4ey2gyPXVcWJZIHrUrrM" target="_blank">Lecture 3</a>
 
 ## MA 477
 
