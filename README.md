@@ -21,3 +21,4 @@
 - [8/22/2022 - Lecture 1 - Syllabus Day](./MA477_CompMath/lec1_introduction)
 - [8/24/2022 - Lecture 2 - MatLab Introdcution](./MA477_CompMath/lec2)
 - [8/29/2022 - Lecture 3 - MatLab Arrays & Functions](./MA477_CompMath/lec3)
+- [8/31/2022 - Lecture 4 - Graphics](./MS477_CompMath/lec4)
