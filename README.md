@@ -15,6 +15,8 @@
 - <a href="https://mega.nz/file/xHcmyQIR#B9MA8NBvJrfNgdtSr1gbnq2VQ5tHRIis-NnzOfGN_xA" target="_blank">Lecture 1</a>
 - <a href="https://mega.nz/file/xDdHVYrT#7C1czIVl3AtBQmuusAe2vFhFAeB0ULumMOiS6NB52uU" target="_blank_">Lecture 2</a>
 - <a href="https://mega.nz/file/xbdgSCRA#es8sk6h0xPIkwvsSYvGU15B4ey2gyPXVcWJZIHrUrrM" target="_blank">Lecture 3</a>
+- <a href="https://mega.nz/file/EWkC2ZAI#Om8nAUDqCVyDhVazSLcgkNQCewesg4IV_gKU8stdyk8" target="_blank">Lecture 4</a>
+- <a href="https://mega.nz/file/4fkEiRJK#Ta22wTQd9IrqxeWwuwAvp2j4-ZVkncEoCHDX6-xt7CQ" target="_blank">Lecture 5</a>
 
 ## MA 477
 
