@@ -8,6 +8,7 @@
 - [8/25/2022 - Lecture 2 - Python Introduction](./CS490_IntroToAI/lec2_pythonIntro.md)
 - [8/30/2022 - Lecture 3 - ML Part 1](./CS490_IntroToAI/lec3)
 - [9/01/2022 - Lecture 4 - Intelligent Agents](./CS490_IntroToAI/lec4)
+- [9/06/2022 - Lecture 5 - ML Part 2](./CS490_IntroToAI/lec5)
 
 ### Lecture PDFs
 
