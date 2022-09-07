@@ -26,3 +26,4 @@
 - [8/24/2022 - Lecture 2 - MatLab Introdcution](./MA477_CompMath/lec2)
 - [8/29/2022 - Lecture 3 - MatLab Arrays & Functions](./MA477_CompMath/lec3)
 - [8/31/2022 - Lecture 4 - Graphics](./MA477_CompMath/lec4)
+- [9/07/2022 - Lecture 5 - Programming in MATLAB](./MA477_CompMath/lec5)
