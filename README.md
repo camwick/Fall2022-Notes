@@ -11,6 +11,7 @@
 - [9/06/2022 - Lecture 5 - ML Part 2](./CS490_IntroToAI/lec5)
 - [9/08/2022 - Lecture 6 - Intelligent Agents 2](./CS490_IntroToAI/lec6)
 - [9/13/2022 - Lecture 7 - ML Part 3](./CS490_IntroToAi/lec7)
+- [9/15/2022 - Lecture 8 - Intelligent Agents 2](./CS490_IntroToAI/lec8)
 
 ### Lecture PDFs
 
@@ -30,4 +31,3 @@
 - [8/31/2022 - Lecture 4 - Graphics](./MA477_CompMath/lec4)
 - [9/07/2022 - Lecture 5 - Programming in MATLAB](./MA477_CompMath/lec5)
 - [9/12/2022 - Lecture 6 - Number System and Errors](./MA477_CompMath/lec6)
-- 
