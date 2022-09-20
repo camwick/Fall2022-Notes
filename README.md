@@ -12,6 +12,7 @@
 - [9/08/2022 - Lecture 6 - Intelligent Agents 2](./CS490_IntroToAI/lec6)
 - [9/13/2022 - Lecture 7 - ML Part 3](./CS490_IntroToAi/lec7)
 - [9/15/2022 - Lecture 8 - Intelligent Agents 2](./CS490_IntroToAI/lec8)
+- [9/20/2022 - Lecture 9 - Machine Learning](./CS490_IntroToAI/lec9)
 
 ### Lecture PDFs
 
